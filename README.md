@@ -1,4 +1,4 @@
-![alt text](https://github.com/cdcavagnolli/cdcavagnolli/githubBanner.png?raw=true)
+![alt text](https://github.com/cdcavagnolli/cdcavagnolli/blob/master/githubBanner.png?raw=true)
 
 <!--
 **cdcavagnolli/cdcavagnolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
